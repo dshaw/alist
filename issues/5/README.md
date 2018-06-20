@@ -11,6 +11,9 @@ Now we should continue to hold Microsoft accountable for their stewardship of ou
 Let me share my experiences of why I think this acquisition is a good one for all parties. [read here….](https://medium.com/@dshaw/accountable-company-8c257e84d34e)
 ### TC 39 Committee Meeting  
 
+Join the EcmaScript team to improve ES and prepare awesome proposal for TC39, never miss a [meeting](https://www.ecma-international.org/memento/Ecma_meeting_calendar.htm) know about [meeting agendas](https://github.com/tc39/agendas). Learn more about [ECMA362 Proposals](https://github.com/tc39/ecma262).
+
+
 ## Events 
 -	AUG 21 – 23: [JSConf US 2018]( https://2018.jsconf.us/) – Carlsbad, California
 -	Oct 10 – 12: [Node.js Interactive 2018]( https://events.linuxfoundation.org/events/js-interactive-2018/attend/diversity-scholarship/) – Vancouver, BC, Canada
