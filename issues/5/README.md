@@ -56,13 +56,17 @@ Members of the Node.js project have begun engaging with TC39 helping better defi
 - NOV 27-29: TC39 67th meeting - Cupertino, CA
 
 ## Events 
+- JUL 10: [Always Forward with dshaw: Dev Related on Modules](https://www.crowdcast.io/e/dshawaf6) - with [@tzmanics](https://twitter.com/tzmanics)
+- JUL 23-25: [Node Summit](http://www.nodesummit.com/) - San Francisco, CA.
+- JUL 26-27: [Node Summit Training Days](http://www.nodesummit.com/training-days/) - San Francisco, CA - Organize by [@dshaw](https://twitter.com/dshaw) 🌈🦄.
 -	AUG 21 – 23: [JSConf US 2018]( https://2018.jsconf.us/) – Carlsbad, California
+- SEPT 8 - [NodeConf Nigeria](https://www.eventbrite.com/e/nodeconf-ng-2018-tickets-47534958340) - Lagos, Nigeria
 -	Oct 10 – 12: [Node.js Interactive 2018]( https://events.linuxfoundation.org/events/js-interactive-2018/attend/diversity-scholarship/) – Vancouver, BC, Canada.
 -	Oct 13: [Node.js Collaborator Summit]( https://events.linuxfoundation.org/events/js-interactive-2018/attend/diversity-scholarship/) – Vancouver, BC, Canada.
 -	Nov 15 – 16: [Cascadia JS]( https://2018.cascadiajs.com/) – Seattle, WA
 
 ### 2019
-- FEB: JSConf Hawaiʻi - Honolulu, H
+- FEB: JSConf Hawaii - Honolulu, Hi
 
 
 ## Discloure 
